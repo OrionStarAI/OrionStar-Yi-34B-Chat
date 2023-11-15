@@ -43,8 +43,6 @@ Hugging Face 下载所需资源。
 
 ## Python 代码方式
 
-### Chat 模型推理方法示范
-
 ```python
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
@@ -109,8 +107,8 @@ x + y = 26  （共有26个头）
 
 # 企业介绍
 
-猎户星空是一家全球领先的服务机器人解决方案公司，成立于2016年9月。ORION
-STAR致力于基于人工智能技术打造下一代革命性机器人，使人们能够摆脱重复的体力劳动，使人类的工作和生活更加智能和有趣，通过技术使社会和世界变得更加美好。
+猎户星空（ORION
+STAR）是一家全球领先的服务机器人解决方案公司，成立于2016年9月。猎户星空致力于基于人工智能技术打造下一代革命性机器人，使人们能够摆脱重复的体力劳动，使人类的工作和生活更加智能和有趣，通过技术使社会和世界变得更加美好。
 
 猎户星空拥有完全自主开发的全链条人工智能技术，如语音交互和视觉导航。它整合了产品开发能力和技术应用能力。基于Orion机械臂平台，它推出了ORION
 STAR AI Robot Greeting、AI Robot Greeting Mini、Lucki、Coffee
