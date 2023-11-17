@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-🤗 <a href="https://huggingface.co/OrionStarAI" target="_blank">Hugging Face</a> 
+🤗 <a href="https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat" target="_blank">Hugging Face 模型下载</a> 
 </p>
 
 # 目录
