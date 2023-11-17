@@ -3,8 +3,8 @@ import os
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, TextStreamer
 
-
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+
 
 def parse_inputs():
     parser = argparse.ArgumentParser(description="OrionStar-Yi-34B-Chat text generation demo")
@@ -43,9 +43,10 @@ def parse_inputs():
 
 def main(args):
     print(args)
-    model = AutoModelForCausalLM.from_pretrained(args.model, device_map="auto", torch_dtype=torch.bfloat16, trust_remote_code=True)
+    model = AutoModelForCausalLM.from_pretrained(args.model, device_map="auto", torch_dtype=torch.bfloat16,
+                                                 trust_remote_code=True, use_safetensors=False)
     tokenizer = AutoTokenizer.from_pretrained(args.tokenizer or args.model, trust_remote_code=True)
-    messages = [{ "role": "user","content":args.prompt}]
+    messages = [{"role": "user", "content": args.prompt}]
     if args.streaming:
         position = 0
         try:
@@ -61,6 +62,7 @@ def main(args):
         print(response)
         if torch.backends.mps.is_available():
             torch.mps.empty_cache()
+
 
 if __name__ == "__main__":
     args = parse_inputs()
