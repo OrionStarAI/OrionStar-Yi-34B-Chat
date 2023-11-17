@@ -12,6 +12,18 @@
 🤗 <a href="https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat" target="_blank">Hugging Face 模型下载</a> 
 </p>
 
+<div align="center">
+
+
+<h4 align="center">
+    <p>
+        <b>中文</b> |
+        <a href="https://github.com/OrionStarAI/OrionStar-Yi-34B-Chat/blob/main/README_en.MD">English</a>
+    <p>
+</h4>
+
+</div>
+
 # 目录
 
 - [📖 模型介绍](#模型介绍)
