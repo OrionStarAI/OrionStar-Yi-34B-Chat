@@ -1,4 +1,5 @@
 import os
+
 os.environ["CUDA_VISIBLE_DEVICES"] = "1"
 
 import torch
@@ -16,7 +17,8 @@ def init_model():
         "OrionStarAI/OrionStar-Yi-34B-Chat",
         torch_dtype=torch.float16,
         device_map="auto",
-        trust_remote_code=True
+        trust_remote_code=True,
+        use_safetensors=False
     )
     model.generation_config = GenerationConfig.from_pretrained(
         "OrionStarAI/OrionStar-Yi-34B-Chat",
@@ -34,7 +36,8 @@ def clear_screen():
         os.system("cls")
     else:
         os.system("clear")
-    print(Fore.YELLOW + Style.BRIGHT + "欢迎使用OrionStar-Yi-34B-Chat，输入进行对话，vim 多行输入，clear 清空历史，CTRL+C 中断生成，stream 开关流式生成，exit 结束。")
+    print(
+        Fore.YELLOW + Style.BRIGHT + "欢迎使用OrionStar-Yi-34B-Chat，输入进行对话，vim 多行输入，clear 清空历史，CTRL+C 中断生成，stream 开关流式生成，exit 结束。")
     return []
 
 
