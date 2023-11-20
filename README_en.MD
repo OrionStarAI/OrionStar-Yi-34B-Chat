@@ -66,6 +66,8 @@ from [opencompass leaderboard](https://opencompass.org.cn/leaderboard-llm).
 | **TigerBot-70B-Chat-V2**  | 57.7   | 65.9  | 59.9  |
 | **WeMix-LLaMA2-70B**      | 55.2   | 71.3  | 56    |  			
 | **LLaMA-2-70B-Chat**      | 44.3   | 63.8  | 43.3  |
+| **Qwen-14B-Chat**         | 71.7   | 66.4  | 70    |
+| **Baichuan-13B-Chat**     |  53.4  | 50.5  |  50.7 |      	
 | **OrionStar-Yi-34B-Chat** | 77.71  | 78.32 | 73.52 | 
 
 # Model Inference
