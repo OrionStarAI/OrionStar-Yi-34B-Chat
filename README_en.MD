@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-🤗 <a href="https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat" target="_blank">Hugging Face Model Download</a> 
+🤗 <a href="https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat" target="_blank">HuggingFace Model Download</a> |  🤖 <a href="https://modelscope.cn/models/OrionStarAI/OrionStar-Yi-34B-Chat/summary" target="_blank">ModelScope Download</a>
 </p>
 
 <div align="center">
