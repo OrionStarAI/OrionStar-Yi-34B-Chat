@@ -157,13 +157,9 @@ Truly Useful Robots", OrionStar empowers more people through AI technology.
 
 ## Declarations
 
-Hereby, we declare that our development team has not developed any applications based on the OrionStar-Yi-34B-Chat
-model, whether on iOS, Android, the web, or any other platform. We strongly urge all users not to use the
-OrionStar-Yi-34B-Chat model for any activities that may harm national or social security or violate the law.
-Additionally, we request users not to use the OrionStar-Yi-34B-Chat model for internet services without proper security
-review and filing.
-We hope all users abide by this principle to ensure that technological development takes place in a regulated and legal
-environment.
+We strongly urge all users not to use the OrionStar-Yi-34B-Chat model for any activities that may harm national or social security or violate the law.
+Additionally, we request users not to use the OrionStar-Yi-34B-Chat model for internet services without proper security review and filing.
+We hope all users abide by this principle to ensure that technological development takes place in a regulated and legal environment.
 We have done our best to ensure the compliance of the data used in the model training process. However, despite our
 significant efforts, unforeseen issues may still arise due to the complexity of the model and data. Therefore, if any
 problems arise due to the use of the OrionStar-Yi-34B-Chat open-source model, including but not limited to data security
