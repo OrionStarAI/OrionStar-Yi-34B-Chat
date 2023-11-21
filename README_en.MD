@@ -12,6 +12,11 @@
 🤗 <a href="https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat" target="_blank">Hugging Face Model Download</a> 
 </p>
 
+<p align="center">
+🤗 <a href="https://huggingface.co/spaces/OrionStarAI/OrionStar-Yi-34B-Chat-Demo" target="_blank">Online Demo</a> 
+</p>
+
+
 <div align="center">
 
 
