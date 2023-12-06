@@ -35,7 +35,7 @@
 # Model Introduction
 
 - OrionStar-Yi-34B-Chat from OrionStarAI is based on the open-source Yi-34B model, fine-tuned on a high-quality corpus
-  of over 15 million sentences. OrionStar-Yi-34B-Chat aims to provide an excellent interactive experience for users in
+  of over 150k+ sentences. OrionStar-Yi-34B-Chat aims to provide an excellent interactive experience for users in
   the large model community.
 
 - The Yi series models, open-sourced by the 01-ai team, have shown impressive performance on various benchmarks in
