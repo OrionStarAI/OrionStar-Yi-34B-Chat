@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-🤗 <a href="https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat" target="_blank">HuggingFace 模型下载</a> |  🤖 <a href="https://modelscope.cn/models/OrionStarAI/OrionStar-Yi-34B-Chat/summary" target="_blank">ModelScope 模型下载</a>
+🤗 <a href="https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat" target="_blank">HuggingFace 模型下载</a> |  🤖 <a href="https://modelscope.cn/models/OrionStarAI/OrionStar-Yi-34B-Chat/summary" target="_blank">ModelScope 模型下载</a>|  🧰 <a href="https://openxlab.org.cn/models/detail/OrionStarAI/OrionStar-Yi-34B-Chat" target="_blank">OpenXLab 模型下载</a>
 </p>
 
 
@@ -50,9 +50,9 @@
 
 发布模型和下载链接见下表：
 
-| 模型大小 | 下载链接                                                                                 | 
-|------|--------------------------------------------------------------------------------------|
-| 34B  | 🤗 [OrionStar-Yi-34B-Chat](https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat) | 
+| 模型大小 | Hugging Face 下载链接                                                             | OpenXLab 下载链接                                                             |  
+|------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
+| 34B  | 🤗 [OrionStar-Yi-34B-Chat](https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat) |  🧰 [OrionStar-Yi-34B-Chat](https://openxlab.org.cn/models/detail/OrionStarAI/OrionStar-Yi-34B-Chat) | 
 
 - 模型评估结果
 
