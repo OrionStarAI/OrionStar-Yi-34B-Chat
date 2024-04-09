@@ -178,5 +178,11 @@ OrionStar-Yi-34B-Chat 开源模型而导致的任何问题，包括但不限于�
 和[《Yi-34B 模型社区许可协议》](https://github.com/01-ai/Yi/blob/main/MODEL_LICENSE_AGREEMENT.txt)
 
 # 联系我们
+***欢迎有大模型应用落地需求的企业联系我们进行商务合作***<br>
+**咨询电话:** 400-898-7779<br>
+**电子邮箱:** ai@orionstar.com<br>
+**Discord社区链接:** https://discord.gg/zumjDWgdAs
 
-![](./pics/wechat_group.jpg)
+<div align="center">
+  <img src="./pics/wechat_group.jpg" alt="wechat" width="40%" />
+</div>
