@@ -158,7 +158,9 @@ Engineering 、Agent开发的全链条能力和经验积累；拥有完整的端
 
 企业微信
 
-![](./pics/company_wechat.jpg)
+<div align="center">
+  <img src="./pics/company_wechat.jpg" alt="wechat" width="40%" />
+</div>
 
 # 声明、协议
 
