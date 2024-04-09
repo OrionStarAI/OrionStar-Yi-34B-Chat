@@ -177,6 +177,7 @@ and [Yi-34B Model Community License Agreement](https://github.com/01-ai/Yi/blob/
 # Contact Us
 
 Email: ai@orionstar.com
+
 Discord: https://discord.gg/zumjDWgdAs
 
 WhatsApp Group: https://chat.whatsapp.com/J30ig8Dx4ja5jc0cfx2nVs
