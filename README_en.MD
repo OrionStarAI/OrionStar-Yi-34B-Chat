@@ -14,6 +14,11 @@
 🤗 <a href="https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat" target="_blank">HuggingFace Model Download</a> |  🤖 <a href="https://modelscope.cn/models/OrionStarAI/OrionStar-Yi-34B-Chat/summary" target="_blank">ModelScope Download</a>
 </p>
 
+<p align="center">
+🤗 <a href="https://huggingface.co/spaces/OrionStarAI/OrionStar-Yi-34B-Chat-Demo" target="_blank">Online Demo</a> 
+</p>
+
+
 <div align="center">
 
 
